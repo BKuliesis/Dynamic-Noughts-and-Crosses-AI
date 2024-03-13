@@ -1,0 +1,16 @@
++STANDARD:
+The main game mode of Dynamic Noughts and
+Crosses AI! Play against an AI on a grid
+which grows when you win and the win length
+decreases when you draw. The game ends when
+you lose once. The objective is to get to as
+big of a grid as you can. Your score will
+increase as you win - compare your high score
+with other players on the leaderboard.
+
++IMPOSSIBLE 3X3:
+Play against an unbeatable AI on a 3x3 grid!
+
++PLAYER VS PLAYER:
+Play against a friend with a customisable
+grid size and win length!
